@@ -1,0 +1,89 @@
+
+/* scroll */
+html{
+    scroll-behavior: smooth;
+}
+
+
+body{
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#viajes{
+    color: #fff;
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+#navbarNavDropdown ul li a{
+    color: #fff;
+    justify-content: space-between;
+}
+
+.carousel-inner img{
+    width: 2300px;
+    height: 800px;
+    background-size: cover;
+}
+
+#quienessomos h2{
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+}
+
+
+#quienessomos p{
+    display: inline-flex;
+    text-align: justify;
+    color: #fff;
+    font-weight: 400;
+}
+
+
+#destacados h2{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: #fff;
+    font-weight: 700;
+}
+
+#destacados h5{
+    color: #fff;
+    font-weight: 400;
+}
+
+#destacados #img-3{
+    height: 205px;
+}
+
+#destacados p{
+    text-align: justify;
+    color: #fff;
+    font-weight: 400;
+}
+
+#contacto{
+    color: #fff;
+}
+
+#contacto h2{
+    text-align: center;
+    font-weight: 700;
+}
+
+#contacto label {
+font-weight: 400;
+}
+
+#visitanos h4{
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+}
+
+#visitanos i{
+   color: #fff;
+}
